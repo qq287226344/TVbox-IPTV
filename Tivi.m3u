@@ -3,15 +3,15 @@
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合 [匹配: e.xml]
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合(备用)
-https://t.freetv.fun/live/cctv1-2.m3u8
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-name="CCTV1(backup2)" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合(备用2)
-https://t.freetv.fun/live/cctv1-1.php
+http://74.91.26.218:82/live/cctv2hd.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经 [匹配: e.xml]
 https://t.freetv.fun/live/cctv2-7.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺 [匹配: e.xml]
-https://t.freetv.fun/live/cctv3.php
+http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际 [匹配: e.xml]
-https://t.freetv.fun/live/cctv4-1.php
+http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-name="CCTV4(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际(备用)
 https://t.freetv.fun/live/cctv4mei-zhou-1.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育 [匹配: e.xml]
@@ -25,31 +25,31 @@ https://t.freetv.fun/live/cctv5-plus.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影 [匹配: e.xml]
 https://t.freetv.fun/live/cctv6-4.m3u8
 #EXTINF:-1 tvg-name="CCTV6(backup)" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影(备用)
-https://t.freetv.fun/live/cctv6-2.m3u8
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事 [匹配: e.xml]
-https://t.freetv.fun/live/cctv7.php
+http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧 [匹配: e.xml]
-https://t.freetv.fun/live/cctv8-2.m3u8
+http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录 [匹配: e.xml]
-https://t.freetv.fun/live/cctv9-3.php
+https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教 [匹配: e.xml]
-https://t.freetv.fun/live/cctv10.php
+http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲 [匹配: e.xml]
-https://t.freetv.fun/live/cctv11-1.php
+http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法 [匹配: e.xml]
-https://t.freetv.fun/live/cctv12.php
+http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻 [匹配: e.xml]
 https://t.freetv.fun/live/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿 [匹配: e.xml]
-https://t.freetv.fun/live/cctv14.php
+http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐 [匹配: e.xml]
-https://t.freetv.fun/live/cctv15-2.php
+https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 [匹配: e.xml]
-https://t.freetv.fun/live/cctv16-4.m3u8
+http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV16 4k" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
 https://stream1.freetv.fun/cctv164k-1.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村 [匹配: e.xml]
-https://t.freetv.fun/live/cctv17.php
+http://74.91.26.218:82/live/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清 [匹配: e.xml]
 http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视频道",中国天气 [匹配: t.xml]
@@ -73,23 +73,23 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语 [匹配: e.xml]
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVbqkj.png" group-title="央视频道",CCTV-兵器科技 [匹配: e.xml]
-http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",CCTV-第一剧场 [匹配: e.xml]
-https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",CCTV-风云足球 [匹配: e.xml]
-https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",CCTV-世界地理 [匹配: e.xml]
 http://111.61.236.247:9081/hls/62/index.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",CCTV-央视台球 [匹配: e.xml]
-http://36.32.99.215:5003/live1849.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道",CCTV-央视高网 [匹配: e.xml]
-http://36.32.99.215:5003/live1796.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyyy.png" group-title="央视频道",CCTV-风云音乐 [匹配: e.xml]
-http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVfyjc.png" group-title="央视频道",CCTV-风云剧场 [匹配: e.xml]
-http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/cctv/CCTVhjjc.png" group-title="央视频道",CCTV-怀旧剧场 [匹配: e.xml]
-http://120.76.248.139/live/bfgd/4200000224.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 
 #广东
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="广东",广东卫视 [匹配: e.xml]
@@ -123,9 +123,9 @@ https://stream1.freetv.fun/yan-dong-zhu-jiang-23.ctv
 #EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://live.fanmingming.com/tv/GDTV6.png" group-title="广东",广东新闻 [匹配: e.xml]
 https://hk.188766.xyz/?migutoken=55167266f6adf1371604acedef85a23c&id=gd_gdxw&type=sz
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="广东",广州综合
-http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.cn/tv/广州新闻.png" group-title="广东",广州新闻 [匹配: e.xml]
-http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
 #EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://live.fanmingming.com/tv/广东经济科教.png" group-title="广东",广东经济科教
 http://qjrhc.jydjd.top:2911/udp/224.1.100.6:11111
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://live.fanmingming.com/tv/广东影视.png" group-title="广东",广东影视 [匹配: e.xml]
